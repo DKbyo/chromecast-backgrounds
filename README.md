@@ -3,7 +3,7 @@ This code create a RSS that can be used in a Dynamic theme in Windows.
 
 ## Download ##
 
-Download the theme, install with double click and choose Download all attachments in the "Subscribe to RSS feed?" dialog.
+[Download](https://github.com/DKbyo/chromecast-backgrounds/releases) the theme, install with double click and choose Download all attachments in the "Subscribe to RSS feed?" dialog.
 
 ![](http://onlinetechtipscom.c.presscdn.com/wp-content/uploads/2010/01/subscribe_thumb.png)
 
