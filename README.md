@@ -21,3 +21,13 @@ node cli.js --writerss=backgrounds.xml
 ```
 
 And hosting the file on your website, o post an issue for update the RSS in the RAW. I will try to keep updating the RSS in the raw.
+
+# Images #
+
+Visit [BACKGROUNDS.md](https://github.com/DKbyo/chromecast-backgrounds/blob/master/BACKGROUNDS.md) for a list of the images in the rss
+
+You can download all the images using the original code
+
+```
+node cli.js --download=/images/directory
+```
