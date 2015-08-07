@@ -1,50 +1,16 @@
-![](https://lh4.googleusercontent.com/proxy/AyBrhQPkAaXVP30YfPgYoXEHr2Bn3UyQjHS1Dw9RjH_Ee-GlKW6pUnhoHfGrvmrD5Y9Ewjbd57DU1dBnhq7ESoCBgae32aFM=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-kg9t4FrQyas/Tn6pwfEijkI/AAAAAAAAiW0/haslXD3HlCo/s1280-w1280-c-h720-k-no/Interlocking.jpg)
-![](https://lh3.googleusercontent.com/-5E0jD9xU4kU/Tg1brt6WipI/AAAAAAAAc0s/2YRKYYKsEkM/s1280-w1280-c-h720-k-no/061125-1635-Maelstrom3.jpg)
-![](https://lh3.googleusercontent.com/CU7i_3jlOu5FVM4khBWDoLohrVypJigUtVDvpJhUwLBAqhAwWbWAKg=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/wWEGMVVySpBV81iTba4X0iUMN7ZELXWfrfOwV6yl6rAI0gQLhBKIEA=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/wgpPDkKkmkya8BNUxzSws7sM_EaH27cq13YfWOfpqvFnnGHOkH11uw=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/r2m6VYH9B1V_SHqOHeKMyrohSvy2DcG1ozvkJdXsZ5BVAFEFyNrE1w=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-HiLp9PsqEEg/U0MiTxSu0yI/AAAAAAAJP3w/ZWMfpXVaQVI/s1280-w1280-c-h720-k-no/Trey-ratcliff-toronto-Recovered.jpg)
-![](https://lh3.googleusercontent.com/-WmTFENP7D5Y/TpaO6koPX7I/AAAAAAAAKH4/I9C49D5Hj98/s1280-w1280-c-h720-k-no/IMGP0184.jpg)
-![](https://lh3.googleusercontent.com/-_9KsThqIDII/TsKQNHpnMcI/AAAAAAABFcM/myl4tBgFSMs/s1280-w1280-c-h720-k-no/GGB-Wave_mono-square.jpg)
-![](https://lh3.googleusercontent.com/-5IpprOs0T78/T3PwhE-VJ9I/AAAAAAAAYzA/-2X-oY9C3N0/s1280-w1280-c-h720-k-no/BayBridge-night-mono.jpg)
-![](https://lh3.googleusercontent.com/xNVmr3thiNVXkULHxNE_Fzg0IU_UzFwztP04pVPmKA_3LUUpIHH-UA=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-duWLWrx3RtU/Tg1erB-vvtI/AAAAAAAAANU/3iD8-ATfJsw/s1280-w1280-c-h720-k-no/090501-0963-CycloneOfLt.jpg)
-![](https://lh3.googleusercontent.com/-DVLhwntrByk/UHWaN49pObI/AAAAAAAAQ5E/OeeF4jq71GY/s1280-w1280-c-h720-k-no/DSC_0540_39_41-Edit.jpg)
-![](https://lh3.googleusercontent.com/U3rInIJtLRdx_KPSZaR5RDQ3-TfMrzIE6P4sG_iYJmDXCmXKRihozg=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-7EJI2_bMWrg/U0_6WXfnu0I/AAAAAAAA2IA/qnv2qDY374E/s1280-w1280-c-h720-k-no/388A4957.jpg)
-![](https://lh3.googleusercontent.com/-ZMApajhE4dk/Tm_qPMgcN0I/AAAAAAAAZwQ/785YyByl5hs/s1280-w1280-c-h720-k-no/Not%2BEnough%2BWonder%2Bin%2Bthe%2BWorld.jpg)
-![](https://lh3.googleusercontent.com/GkgbjSpoQzLfrgTfJGnPqKRSiE-V39D4fZT_5_GBLRuDYdXaw4aL_g=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/8-YMdwohAAIaPn3N8UGe3oRI3UTt7hnR4q-NnTjNq7UH61lq9Ow3=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-PEqdToxzXnY/UtcZqxgVtoI/AAAAAAAAX3Q/9Q-5NiHHp58/s1280-w1280-c-h720-k-no/DSC_1557-Edit.jpg)
-![](https://lh3.googleusercontent.com/fRYDn6wtKAKtY-jv5rSrgeQA3PxOBUjBobFKHibA30KOeq-zGvQ0=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/vDqVtva7FHw6lTd4iA2sBlwdArxZRWDMi6H5CCzDVFFP3USUrIj8RQ=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-08NVs0omPPw/TgtZEFlihuI/AAAAAAAJzLc/HTdWZfPzTJk/s1280-w1280-c-h720-k-no/1134103121_gateway%2Bto%2Bthe%2Btemple%2Bof%2Bheaven.jpg)
-![](https://lh3.googleusercontent.com/dD_R-VGBJbMpnFpSqKeIEcNO6ieU3AlUmYkCkOseCFO2SHV5i8wU=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-b65_YEujdhY/T52ry34XssI/AAAAAAAAmFA/jKkE6aX6ex8/s1280-w1280-c-h720-k-no/final%2Bcopy%2BSecond%2BBeach.jpg)
-![](https://lh3.googleusercontent.com/P_dN9qx3LOx3novovfrn0Vv5bLDLw4IahEt1HJLbj1UVoGc9B1rkmw=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/95nFNKu-2yw0W0lT0U_OhBcFUUsu17C2KTJORob39Qzb4rYpFw1T=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/ocLEQey0zMGlwuAB3e-_-WXzodRLlnVfXYFtOaFHernRduexPUZY=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/VWgsbVElqYm-HMdMIp5mip3ATDw9QedWf2fT3eeWX51A48fY19e44Q=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-lOZvJ3yPdfc/Tg1gbgvj2bI/AAAAAAAAAPc/bgWip6MWRVI/s1280-w1280-c-h720-k-no/101027-4887-TestOfTime.jpg)
-![](https://lh3.googleusercontent.com/csfWGGaRl2WzKuRw3BV0rkrC5aN_5l5TnWNbVV_YDY6H35qLksXP=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-sZXaqdy-xcA/UKzgVo7pqnI/AAAAAAAAIaA/tvF7kHoKH2I/s1280-w1280-c-h720-k-no/Hell%2527s%2BGate%2BBridge-6.jpg)
-![](https://lh3.googleusercontent.com/-N7h4Iit041g/U0MUZ6H8WdI/AAAAAAAJKok/V-IfPQ_XXK4/s1280-w1280-c-h720-k-no/Farewell%2BSan%2BFrancisco.jpg)
-![](https://lh3.googleusercontent.com/rtHNoDUNV5PUsHQtfkYXP9sfwY8JmEqO341cfBXWa2qwU8DUBet-AA=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-4026KDnYCqc/ThYb2MMKRLI/AAAAAAABSEs/3N3nOtyl_lI/s1280-w1280-c-h720-k-no/RHeaRy_380.jpg)
-![](https://lh3.googleusercontent.com/Tj_W806aUvu2l-LgJihEhNufLDxLyRo12FITGaIlYRQ-BZEe_b43=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-r9JZ23uiJdw/U0MRzWVvfDI/AAAAAAAJgGQ/kggpkbXBzks/s1280-w1280-c-h720-k-no/A%2BMorning%2Bat%2Bthe%2BSecret%2BLak2e.jpg)
-![](https://lh3.googleusercontent.com/-RtJjOCkuYL8/UtTvDO3sraI/AAAAAAAAX3c/VVVtMV1yPW0/s1280-w1280-c-h720-k-no/DSC_4393.jpg)
-![](https://lh3.googleusercontent.com/-EIEk1-tv81w/TGD0hHBXZEI/AAAAAAAAav0/MfGEerqGlfk/s1280-w1280-c-h720-k-no/IMG_1531.jpg)
-![](https://lh3.googleusercontent.com/-W5qc4LH_lpo/U_yjzHjSpzI/AAAAAAAB-7E/8MQAw4fsEJc/s1280-w1280-c-h720-k-no/_DX_7114-Edit-Recovered.jpg)
-![](https://lh3.googleusercontent.com/-pcOMMd6OI2o/Uiw3WADukxI/AAAAAAAATJo/GtXGDlprXqM/s1280-w1280-c-h720-k-no/Chrysler%2BBuilding%252C%2BNYC.jpg)
-![](https://lh3.googleusercontent.com/-JLMulqzQsQQ/UqBrOg83JWI/AAAAAAAAgsY/vzUeMdvC-h0/s1280-w1280-c-h720-k-no/DSC_0663-Edit-Edit-Edit.JPG)
-![](https://lh3.googleusercontent.com/0PJTJ0EttysA5SdaqvNzFoFjSJYNboT8SGYDkGraSdPVO9tchv_UJQ=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/gmpavVTmMxOiCGxz4jx-euml5zdQnETidDfyhpkjRKIkiavf9Hju=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/iqLYjy3atolSYZIEkWYocCMeuHGrH8N0WEU8WaF2bDfL7TWDF8I7PQ=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/Dn4PXb_Le82-2ozxpOuqYKPzPOpy9nlLSmKQ1j5gnyyRVIlqUHeU=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/gODD3b47sNZRDj5P0xG1KD954uAmT-z-4JTDORs6ogDOrXnkucIi=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/aJDPgy2DLWhznz3D-rWKfME9Rj8UYgi0oIevqLejo1vWrLV5rAcP=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/Hhk1aqMArNCISGKh96nsjEveHbXg3r23MLBhCTDIC7dOG6nA-b_k=w1280-h720-p-k-no-nd-mv)
-![](https://lh3.googleusercontent.com/-0EtkLRGwW-M/T9frF1W1iXI/AAAAAAAAQXA/CiueoUGCsjo/s1280-w1280-c-h720-k-no/12%2B-%2B1)
+# Windows Theme of chromecast-backgrounds #
+This code create a RSS that can be used in a Dynamic theme in Windows.
+
+# Download #
+
+Download the theme, install with double click and choose Download all attachments in the "Subscribe to RSS feed?" dialog.
+
+![](http://onlinetechtipscom.c.presscdn.com/wp-content/uploads/2010/01/subscribe_thumb.png)
+
+
+# FAQ Dynamic RSS Themes #
+
+Visit the [Windows FAQ](http://windows.microsoft.com/en-us/windows/rss-theme-faq) if you have issues.
+
+# Update Theme # 
+You can create a RSS and hosting in your service, o post an issue for update the RSS in the RAW. I will try to keep updating the RSS.
