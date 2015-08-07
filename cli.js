@@ -7,6 +7,7 @@ var fs = require('fs');
 var request = require('request');
 var nopt = require('nopt');
 var chalk = require('chalk');
+var RSS = require('rss');
 var getChromecastBackgrounds = require('./index');
 
 var read = fs.readFileSync;
@@ -80,6 +81,25 @@ var downloadImages = function(backgrounds, directory) {
     return Q.all(promises);
 };
 
+var writeRSS = function(filename, content) {
+    var feed = new RSS({
+		title:"Chromecast Backgrounds",
+		description:"A set of Chromecast Backgrounds images"
+	});
+	for(var e in content) {
+		var element= content[e];
+		var url = element.url;
+		url = url.indexOf(".jpg")>0?url:url+"?.jpg";
+		feed.item({
+			title:(element.author==null)?"Chromecast background":element.author,
+			enclosure:{
+				url:url
+			}
+		});
+	}
+    write(filename, feed.xml());
+};
+
 var options = nopt({
     crop: Boolean,
     download: String,
@@ -90,7 +110,8 @@ var options = nopt({
     size: String,
     verbose: Boolean,
     width: String,
-    writemd: String
+    writemd: String,
+	writerss:String
 }, {
     h: '--help',
     v: '--verbose'
@@ -104,7 +125,8 @@ if (options.help) {
     --height=<height_pixels> \
     --crop \
     --save=<file> \
-    --writemd=<file>';
+    --writemd=<file> \
+	--writerss=<file>';
     console.log(chalk.yellow(helpString));
     return;
 }
@@ -144,6 +166,10 @@ getChromecastBackgrounds().then(function(backgrounds) {
     if (options.verbose) {
         console.log(chalk.grey(JSON.stringify(backgrounds, null, 4)));
     }
+	if (options.writerss) {
+		writeRSS(options.writerss,backgrounds);
+	}
+	
     if (options.download) {
         console.log(chalk.underline('Downloading background images...\n'));
         downloadImages(backgrounds, options.download).done(function() {
